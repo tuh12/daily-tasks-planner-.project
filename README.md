@@ -1,1 +1,2 @@
-# daily-tasks-planner-.project
+# Daily-Tasks-Planner
+Object oriented design project..
